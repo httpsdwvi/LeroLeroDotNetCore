@@ -1,0 +1,15 @@
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\bin\Debug\net7.0\dotnetcore.exe
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\bin\Debug\net7.0\dotnetcore.deps.json
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\bin\Debug\net7.0\dotnetcore.runtimeconfig.json
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\bin\Debug\net7.0\dotnetcore.dll
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\bin\Debug\net7.0\dotnetcore.pdb
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\obj\Debug\net7.0\dotnetcore.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\obj\Debug\net7.0\dotnetcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\obj\Debug\net7.0\dotnetcore.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\obj\Debug\net7.0\dotnetcore.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\obj\Debug\net7.0\dotnetcore.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\obj\Debug\net7.0\dotnetcore.dll
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\obj\Debug\net7.0\refint\dotnetcore.dll
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\obj\Debug\net7.0\dotnetcore.pdb
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\obj\Debug\net7.0\dotnetcore.genruntimeconfig.cache
+C:\Users\davio\OneDrive\Desktop\Work\Projetos\dotnetcore\obj\Debug\net7.0\ref\dotnetcore.dll
