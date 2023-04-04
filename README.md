@@ -1,1 +1,1 @@
-# LeroLero and bla, bla, blá e other fitas
+# LeroLero, bla, bla, blá e other fitas
